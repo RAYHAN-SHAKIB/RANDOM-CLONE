@@ -320,7 +320,7 @@ def mumit2(uid,pwx,tl):
 
             session = requests.Session()
 
-            sys.stdout.write('\r\033[1;92m[RAYHANXD]--[%s/%s]--[OK-%s]~[CP-%s] \r'%(loop,tl,len(oks),len(cps))),
+            sys.stdout.write('\r\033[1;92m[RAYHAN♦XD]--[%s/%s]--[OK-%s]~[CP-%s] \r'%(loop,tl,len(oks),len(cps))),
 
             sys.stdout.flush()
 
